@@ -1,7 +1,8 @@
 {
   "build": {
     "env": {
-      "INSTALL_COMMAND": "yarn install"
-    }
+      "CI": "true"
+    },
+    "installCommand": "yarn install"
   }
 }
