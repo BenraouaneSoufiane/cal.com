@@ -2,7 +2,7 @@
   "build": {
     "env": {
       "CI": "true"
-    },
-    "installCommand": "yarn install"
-  }
+    }
+  },
+  "installCommand": "yarn install"
 }
